@@ -46,8 +46,6 @@ The raw data required several preparation steps to be ready for analysis. The pr
 - Calculating the trip_duration in seconds for each ride by finding the difference between ended_at and started_at timestamps.
 - Extracting the month and day of the week from the started_at timestamp to facilitate time-based analysis.
 
----
-
 ## Exploratory Data Analysis
 ---
 
@@ -68,8 +66,14 @@ The analysis focused on:
 ---
 
 In this phase, I delved deeper into the usage patterns. A key part of the analysis was aggregating data to compare the two user types across different dimensions.
-One interesting feature was calculating the average trip duration for each user type and for each day of the week. This required grouping the data and applying aggregate functions, which I accomplished using functions and Pivot Tables within Google Sheets. For example, to find the average trip duration per user type, I used functions like AVERAGEIF to calculate the average where the user type - was "member" or "casual".
-This allowed me to see that casual riders, on average, take significantly longer trips than members, suggesting different use cases (e.g., leisure vs. commuting).
+One interesting feature was calculating the average trip duration for each user type and for each day of the week. 
+Key steps included:
+- Grouping and aggregating trips by member type, weekday, and hour.
+- Visualizing trip counts and durations to identify trends.
+- Ranking stations by trip frequency.
+- Comparing seasonal and daily usage differences between casual and member riders.
+
+This allowed me to see that casual riders, on average, take significantly longer trips than members, suggesting different use cases (e.g., leisure vs. commuting) even though there were more members than casuals. This is worthy of note.
 Results/Findings
 The analysis and visualization led to several key findings, as summarized in the dashboard.
 Total Rides: There were approximately 424,000 rides in Q1 2020.
