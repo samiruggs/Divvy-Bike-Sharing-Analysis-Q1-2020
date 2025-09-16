@@ -74,14 +74,18 @@ Key steps included:
 - Comparing seasonal and daily usage differences between casual and member riders.
 
 This allowed me to see that casual riders, on average, take significantly longer trips than members, suggesting different use cases (e.g., leisure vs. commuting) even though there were more members than casuals. This is worthy of note.
-Results/Findings
+
+## Results/Findings
+
+---
+
 The analysis and visualization led to several key findings, as summarized in the dashboard.
-Total Rides: There were approximately 424,000 rides in Q1 2020.
-User Breakdown: Annual members are the dominant user group, accounting for a large majority of the rides.
-Average Trip Duration: The average trip duration was 17.15 minutes. However, this varies greatly between user types, with casual riders having much longer average ride times.
-Monthly Trends: Usage increased each month, with March having the highest ridership of the quarter.
-Weekly Trends: Ridership is fairly consistent throughout the week, with a slight peak during typical commuting days (Monday-Friday).
-Popular Stations: The most frequented start and end stations are concentrated in downtown areas, such as near Lake Shore Drive, Michigan Ave, and Canal St, indicating strong commuter and tourist activity.
+
+- **Total Rides:** There were approximately 424,000 rides in Q1 2020.
+- **User Breakdown:** Annual members are the dominant user group, accounting for a large majority of the rides.
+- **Monthly Trends:** Usage increased each month, with March having the highest ridership of the quarter.
+- **Weekly Trends:** Ridership is fairly consistent throughout the week, with a slight peak during typical commuting days (Monday-Friday).
+- **Popular Stations:** The most frequented start and end stations are concentrated in downtown areas, such as near Lake Shore Drive, Michigan Ave, and Canal St, indicating strong commuter and tourist activity.
 Recommendations
 Based on the findings, I propose the following recommendations:
 Targeted Membership Campaigns: Launch marketing campaigns aimed at casual riders who take frequent, long trips. Offer them a discounted first-year membership to highlight the cost savings over paying per ride.
