@@ -1,6 +1,9 @@
 # Divvy-Bike-Sharing-Analysis-Q1-2020
 ## Uncovering Ridership Patterns in Chicago
 
+![docked bikes](https://github.com/user-attachments/assets/6c146ac6-7e16-4304-aa1e-4235a86bea82)
+
+
 - Table of Contents
 - Project Overview
 - Data Sources
