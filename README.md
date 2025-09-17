@@ -2,6 +2,7 @@
 ## Uncovering Ridership Patterns in Chicago
 
 ![docked bikes](https://github.com/user-attachments/assets/6c146ac6-7e16-4304-aa1e-4235a86bea82)
+Source: Wikimedia Commons
 
 
 - Table of Contents
