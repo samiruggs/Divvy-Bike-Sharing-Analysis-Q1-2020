@@ -5,7 +5,8 @@
 Source: Wikimedia Commons
 
 
-- Table of Contents
+**Table of Contents**
+
 - Project Overview
 - Data Sources
 - Tools Used
