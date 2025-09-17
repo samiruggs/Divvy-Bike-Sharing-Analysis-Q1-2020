@@ -83,18 +83,31 @@ The analysis and visualization led to several key findings, as summarized in the
 
 - **Total Rides:** There were approximately 424,000 rides in Q1 2020.
 - **User Breakdown:** Annual members are the dominant user group, accounting for a large majority of the rides.
-- **Monthly Trends:** Usage increased each month, with March having the highest ridership of the quarter.
+- **Monthly Trends:** Usage increased each month, with January the february having the highest ridership of the quarter.
 - **Weekly Trends:** Ridership is fairly consistent throughout the week, with a slight peak during typical commuting days (Monday-Friday).
-- **Popular Stations:** The most frequented start and end stations are concentrated in downtown areas, such as near Lake Shore Drive, Michigan Ave, and Canal St, indicating strong commuter and tourist activity.
-Recommendations
+- **Popular Stations:** The most frequented start and end stations are concentrated in downtown areas, such as Clinton St & Madison St, Clinton St & Adams St, and Canal St, indicating strong commuter and tourist activity.
+- **Low Membership Stations:** Membership is extremely low at HQ QR stations.
+- **Avg Trip Duration:** Casual riders take higher trip duration than members.
+  
+## Recommendations
+
 Based on the findings, I propose the following recommendations:
-Targeted Membership Campaigns: Launch marketing campaigns aimed at casual riders who take frequent, long trips. Offer them a discounted first-year membership to highlight the cost savings over paying per ride.
-Optimize Station Capacity: Increase the number of available bikes at the top 5 most popular start/end stations during peak weekday hours to meet commuter demand.
-Weekend Promotions: To boost weekend usage among members and attract more casual riders, introduce special weekend promotions or suggest scenic leisure routes starting from popular stations.
-Limitations
+
+- **Targeted Membership Campaigns:** 1. Launch marketing campaigns aimed at casual riders who take frequent, long trips. Offer them a discounted first-year membership to highlight the cost savings over paying per ride. 2. HQ QR station should be given priority in the campaign
+
+- **Optimize Station Capacity:** Increase the number of available bikes at the top 5 most popular start/end stations during peak weekday hours to meet commuter demand.
+
+- **Weekend Promotions:** To boost weekend usage among members and attract more casual riders, introduce special weekend promotions or suggest scenic leisure routes starting from popular stations.
+  
+## Limitations
+
 This analysis is subject to a few limitations:
-Seasonality: The data only covers the first quarter (winter months). Rider behavior is likely to be very different in warmer seasons.
-COVID-19 Impact: The data from late March 2020 may reflect the early impacts of the COVID-19 pandemic, which could skew typical ridership patterns.
-Lack of Demographics: The dataset is anonymized, so it's not possible to analyze usage patterns based on user demographics like age or gender.
-References
-Divvy Trip Data (2020). Lyft Bikes and Scooters, LLC. Retrieved from https://divvy-tripdata.s3.amazonaws.com/index.html
+
+- **Seasonality:** The data only covers the first quarter (winter months). Rider behavior is likely to be very different in warmer seasons.
+- **COVID-19 Impact:** The data from late March 2020 may reflect the early impacts of the COVID-19 pandemic, which could skew typical ridership patterns.
+- **Lack of Demographics:** The dataset is anonymized, so it's not possible to analyze usage patterns based on user demographics like age or gender.
+- **Not Enough Information:** The data is limited to just one quarter so may not be sufficient to draw conclusions.
+  
+## References
+
+**Divvy Trip Data (2020). Lyft Bikes and Scooters, LLC. Retrieved from https://divvy-tripdata.s3.amazonaws.com/index.html**
